@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="1e3" width="1e3" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 999.99999 1000">
+	<g transform="translate(-121.62 -89.129)" fill="#1f1f1f">
+		<path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m321.62 214.13c-41.42 0.004-74.996 33.58-75 75v600h150v-525h343.93l-471.97 471.97c-21.442 21.453-27.854 53.707-16.247 81.73 11.607 28.022 38.949 46.296 69.28 46.303h600c41.42-0.004 74.996-33.58 75-75v-600h-150v525h-343.93l471.97-471.97c21.442-21.453 27.854-53.707 16.247-81.73-11.607-28.022-38.949-46.296-69.28-46.303z" fill="#1f1f1f"/>
+	</g>
+	<g transform="translate(-.00115 -52.359)" fill="#111">
+		<path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m200 177.36c-41.42 0.004-74.996 33.58-75 75v175h150v-100h343.93l-471.97 471.97c-21.442 21.453-27.854 53.707-16.247 81.73 11.607 28.022 38.949 46.296 69.28 46.303h600c41.42-0.004 74.996-33.58 75-75v-175h-150v100h-343.93l471.97-471.97c21.45-21.45 27.86-53.7 16.25-81.73-11.61-28.02-38.95-46.29-69.28-46.3z" fill="#111"/>
+	</g>
+</svg>

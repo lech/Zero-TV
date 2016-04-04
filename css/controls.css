@@ -1,0 +1,75 @@
+/************* control buttons and metrics */
+#menu span, #menu h2 {
+	display: none;
+}
+
+.prevvid {
+	background: url(../svg/control_rw.svg);
+}
+.playvid.true {
+	background: url(../svg/control_pause.svg);
+}
+.playvid {
+	background: url(../svg/control_play.svg);
+}
+.nextvid {
+	background: url(../svg/control_ff.svg);
+}
+.mute {
+	background: url(../svg/sound_on.svg);
+}
+.mute.true {
+	background: url(../svg/sound_off.svg);
+}
+.loopvid {
+	background: url(../svg/control_loop.svg);
+}
+
+#playercontrols .ctrl:hover, .mute.true:hover {
+	opacity: 1;
+}
+
+#playercontrols .ctrl, .mute.true {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 40px 40px;
+	height: 60px;
+	width: 72px;
+	opacity: .7;
+}
+
+#playercontrols .mute, .mute.true, #playercontrols .loopvid {
+	background-size: 52px 40px;
+}
+
+/************* volume bar */
+#volumecontrol {
+	position: relative;
+	width: 205px;
+	height: 60px;
+	left: 20px;
+}
+
+.volumegutter {
+	transform: translateY(50%);
+	width: 200px;
+	height: 32px;
+	background-color: rgba(17,17,17,0.3);
+	z-index: 20;
+}
+
+.volumebar {
+	height: 100%;
+	border-right: rgba(255,255,255,0.8) 5px solid;
+	background-color: rgba(17,17,17,0.7);
+	z-index: 21;
+}
+
+.volumegutter:hover {
+	background-color: rgba(255,255,255, 0.6);
+}
+
+.volumebar:hover {
+	border-right: rgba(230,45,39,1) 5px solid;
+	background-color: rgba(17,17,17,.8);
+}
