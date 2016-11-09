@@ -57,12 +57,8 @@ function channelMuteVideo() {
 }
 
 function channelLoopVideo() {
-	if(window.location.hash) {
-		window.location = location.origin + location.pathname;
-	} else {
-		window.location = '#' + tv.getVideoData().video_id;
-		setTimeout( location.reload(), 500);
-	}
+	window.location = '#' + tv.getVideoData().video_id;
+	setTimeout( location.reload(), 500);
 }
 
 function channelToggleAbout() {
